@@ -84,6 +84,14 @@ button{
     border-radius: 25px;
     color: #F9FAF8;
 }
+.hero-button{
+    min-width: 100px;
+    min-height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 700;
+}
 .hero-two{
     display: flex;
     flex-grow: 2;
@@ -132,7 +140,7 @@ button{
     width: 250px;
     height: 300px;
     border: 0px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .text-image{
@@ -173,7 +181,7 @@ button{
     padding: 30px;
     width: 1000px;
     height: 150px;
-
+    border-radius: 20px;
 }
 .more-written{
     display: flex;

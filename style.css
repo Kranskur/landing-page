@@ -173,6 +173,7 @@ button{
     padding: 30px;
     width: 1000px;
     height: 150px;
+
 }
 .more-written{
     display: flex;
@@ -205,3 +206,14 @@ button{
     font-weight: 700;
 }
 
+.footer{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 40px;
+}
+.footer-text{
+    display: flex;
+    color: #F9FAF8;
+}
